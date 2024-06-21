@@ -1,0 +1,25 @@
+{
+  "Files": [
+    {
+      "Id": "/Users/elemba/dotnetProjects/CO2App2/wwwroot/index.html",
+      "PackagePath": "staticwebassets/index.html"
+    },
+    {
+      "Id": "obj/Release/net7.0/staticwebassets/msbuild.CO2App2.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj/Release/net7.0/staticwebassets/msbuild.build.CO2App2.props",
+      "PackagePath": "build\\CO2App2.props"
+    },
+    {
+      "Id": "obj/Release/net7.0/staticwebassets/msbuild.buildMultiTargeting.CO2App2.props",
+      "PackagePath": "buildMultiTargeting\\CO2App2.props"
+    },
+    {
+      "Id": "obj/Release/net7.0/staticwebassets/msbuild.buildTransitive.CO2App2.props",
+      "PackagePath": "buildTransitive\\CO2App2.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

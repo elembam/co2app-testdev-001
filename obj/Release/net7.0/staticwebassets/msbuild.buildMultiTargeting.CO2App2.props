@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="../build/CO2App2.props" />
+</Project>

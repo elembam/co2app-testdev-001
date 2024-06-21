@@ -1,0 +1,39 @@
+{
+  "Version": 1,
+  "Hash": "6rTiAwclLbrUDLDDPTZzPJAXuvHK4lriwe24gerkwTs=",
+  "Source": "CO2App2",
+  "BasePath": "_content/CO2App2",
+  "Mode": "Default",
+  "ManifestType": "Publish",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "CO2App2/wwwroot",
+      "Source": "CO2App2",
+      "ContentRoot": "/Users/elemba/dotnetProjects/CO2App2/wwwroot/",
+      "BasePath": "_content/CO2App2",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "/Users/elemba/dotnetProjects/CO2App2/wwwroot/index.html",
+      "SourceId": "CO2App2",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/elemba/dotnetProjects/CO2App2/wwwroot/",
+      "BasePath": "_content/CO2App2",
+      "RelativePath": "index.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/index.html"
+    }
+  ]
+}
