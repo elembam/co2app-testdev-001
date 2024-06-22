@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "+5ERRUQJs7Tqi4sZe4Y6DQWmE1ZzgYfXTJsIqRnI/yI=",
+  "Hash": "SnTvd4FGEQ4LauYaCOfNsDqfp9zQ1ozErOaFHLs9/bc=",
   "Source": "CO2App2",
   "BasePath": "_content/CO2App2",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "CO2App2/wwwroot",
       "Source": "CO2App2",
-      "ContentRoot": "/Users/elemba/dotnetProjects/CO2App2/wwwroot/",
+      "ContentRoot": "/Users/elemba/dotnetProjects/CO2App2v2/wwwroot/",
       "BasePath": "_content/CO2App2",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "/Users/elemba/dotnetProjects/CO2App2/wwwroot/index.html",
+      "Identity": "/Users/elemba/dotnetProjects/CO2App2v2/wwwroot/index.html",
       "SourceId": "CO2App2",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/elemba/dotnetProjects/CO2App2/wwwroot/",
+      "ContentRoot": "/Users/elemba/dotnetProjects/CO2App2v2/wwwroot/",
       "BasePath": "_content/CO2App2",
       "RelativePath": "index.html",
       "AssetKind": "All",

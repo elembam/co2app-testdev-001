@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/elemba/dotnetProjects/CO2App2/CO2App2.fsproj": {}
+    "/Users/elemba/dotnetProjects/CO2App2v2/CO2App2.fsproj": {}
   },
   "projects": {
-    "/Users/elemba/dotnetProjects/CO2App2/CO2App2.fsproj": {
+    "/Users/elemba/dotnetProjects/CO2App2v2/CO2App2.fsproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/elemba/dotnetProjects/CO2App2/CO2App2.fsproj",
+        "projectUniqueName": "/Users/elemba/dotnetProjects/CO2App2v2/CO2App2.fsproj",
         "projectName": "CO2App2",
-        "projectPath": "/Users/elemba/dotnetProjects/CO2App2/CO2App2.fsproj",
+        "projectPath": "/Users/elemba/dotnetProjects/CO2App2v2/CO2App2.fsproj",
         "packagesPath": "/Users/elemba/.nuget/packages/",
-        "outputPath": "/Users/elemba/dotnetProjects/CO2App2/obj/",
+        "outputPath": "/Users/elemba/dotnetProjects/CO2App2v2/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/elemba/.nuget/NuGet/NuGet.Config"

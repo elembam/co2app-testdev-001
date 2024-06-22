@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "GOoYaELyx1k=",
+  "dgSpecHash": "nFQhABBVQQ4=",
   "success": true,
-  "projectFilePath": "/Users/elemba/dotnetProjects/CO2App2/CO2App2.fsproj",
+  "projectFilePath": "/Users/elemba/dotnetProjects/CO2App2v2/CO2App2.fsproj",
   "expectedPackageFiles": [
     "/Users/elemba/.nuget/packages/farmer/1.8.11/farmer.1.8.11.nupkg.sha512",
     "/Users/elemba/.nuget/packages/fsharp.core/8.0.300/fsharp.core.8.0.300.nupkg.sha512",
@@ -26,9 +26,9 @@
     "/Users/elemba/.nuget/packages/system.threading.tasks.extensions/4.5.4/system.threading.tasks.extensions.4.5.4.nupkg.sha512",
     "/Users/elemba/.nuget/packages/system.valuetuple/4.4.0/system.valuetuple.4.4.0.nupkg.sha512",
     "/Users/elemba/.nuget/packages/utf8json/1.3.7/utf8json.1.3.7.nupkg.sha512",
+    "/Users/elemba/.nuget/packages/microsoft.netcore.app.ref/7.0.20/microsoft.netcore.app.ref.7.0.20.nupkg.sha512",
     "/Users/elemba/.nuget/packages/microsoft.aspnetcore.app.ref/7.0.20/microsoft.aspnetcore.app.ref.7.0.20.nupkg.sha512",
-    "/Users/elemba/.nuget/packages/microsoft.netcore.app.host.osx-x64/7.0.20/microsoft.netcore.app.host.osx-x64.7.0.20.nupkg.sha512",
-    "/Users/elemba/.nuget/packages/microsoft.netcore.app.ref/7.0.20/microsoft.netcore.app.ref.7.0.20.nupkg.sha512"
+    "/Users/elemba/.nuget/packages/microsoft.netcore.app.host.osx-x64/7.0.20/microsoft.netcore.app.host.osx-x64.7.0.20.nupkg.sha512"
   ],
   "logs": []
 }
