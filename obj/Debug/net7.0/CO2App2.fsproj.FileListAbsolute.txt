@@ -48,3 +48,4 @@
 /Users/elemba/dotnetProjects/CO2App2/bin/Debug/net7.0/publish/web.config
 /Users/elemba/dotnetProjects/CO2App2/bin/Debug/net7.0/publish/CO2App2.deps.json
 /Users/elemba/dotnetProjects/CO2App2/bin/Debug/net7.0/publish/CO2App2.runtimeconfig.json
+/Users/elemba/dotnetProjects/CO2App2/obj/Debug/net7.0/CO2App2.sourcelink.json
