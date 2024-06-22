@@ -10,7 +10,7 @@ open System.Reflection
 [<assembly: System.Reflection.AssemblyCompanyAttribute("CO2App2")>]
 [<assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")>]
 [<assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")>]
-[<assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+71a83c1e1caf5427d3cfab9a28673677c037ce2f")>]
+[<assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0ae13f18f976f6d3d92ed3c55ed21940a687de5a")>]
 [<assembly: System.Reflection.AssemblyProductAttribute("CO2App2")>]
 [<assembly: System.Reflection.AssemblyTitleAttribute("CO2App2")>]
 [<assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")>]
